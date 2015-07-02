@@ -1,0 +1,4 @@
+C:\Users\MARASINGHE\Documents\Visual Studio 2010\Projects\Q2\bin\Debug\Q2.exe
+C:\Users\MARASINGHE\Documents\Visual Studio 2010\Projects\Q2\bin\Debug\Q2.pdb
+C:\Users\MARASINGHE\Documents\Visual Studio 2010\Projects\Q2\obj\x86\Debug\Q2.exe
+C:\Users\MARASINGHE\Documents\Visual Studio 2010\Projects\Q2\obj\x86\Debug\Q2.pdb
